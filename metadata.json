@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Anya - AI Companion",
+  "description": "An immersive, emotional AI companion app featuring multimodal interaction (Chat, TTS, Image Generation).",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
